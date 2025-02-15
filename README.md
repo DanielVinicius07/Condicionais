@@ -1,2 +1,2 @@
-# Condicionais-1
+# Condicionais
 Exercícios resolvidos de Condicionais
